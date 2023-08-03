@@ -117,7 +117,6 @@ ul {
     color: var(--color-dark);
 }
 
-/* check this */
 .header-nav-link {
     color: var(--color-dark);
     font-weight: 500;
@@ -180,6 +179,7 @@ ul {
     display: block;
     margin: 0 auto;
     min-width: 169px;
+    cursor: pointer;
 }
 
 .hero-button:hover,
