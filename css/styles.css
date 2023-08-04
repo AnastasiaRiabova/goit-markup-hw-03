@@ -249,7 +249,6 @@ ul {
 }
 
 .team-list {
-    background-color: var(--color-white);
     display: flex;
     gap: 24px;
 }
@@ -335,6 +334,7 @@ ul {
     border: 1px solid var(--color-cornflower);
     border-radius: 4px;
     padding: 12px 24px 12px 24px;
+    cursor: pointer;
 }
 
 .gallery-filter-button:hover,
